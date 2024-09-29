@@ -9,4 +9,5 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
+    public DbSet<practica2.Models.cuentaBancaria> DataCuentaBancaria {get; set; }
 }

@@ -22,12 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/CARPETA TATIANA/CURSOS UNIVERSIDAD/6TO CICLO/PROGRAMACIÓN 1/practica2/Views/CuentaBancaria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhQmFuY2FyaWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CARPETA TATIANA/CURSOS UNIVERSIDAD/6TO CICLO/PROGRAMACIÓN 1/practica2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CARPETA TATIANA/CURSOS UNIVERSIDAD/6TO CICLO/PROGRAMACIÓN 1/practica2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/CARPETA TATIANA/CURSOS UNIVERSIDAD/6TO CICLO/PROGRAMACIÓN 1/practica2/Views/ListarCuentas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFyQ3VlbnRhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CARPETA TATIANA/CURSOS UNIVERSIDAD/6TO CICLO/PROGRAMACIÓN 1/practica2/Views/Shared/Error.cshtml]
